@@ -15,7 +15,6 @@ function play(question,answer){
   }
 console.log("cool., you getting know me")
 }
-
 var questionAndAnswers=[{
   question: "welcome "+uname+" DO YOU KNOW Raja? ",
   answer: "Yes"  
