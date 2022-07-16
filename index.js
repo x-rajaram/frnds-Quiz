@@ -10,10 +10,10 @@ function play(question,answer){
     score=score+1
     console.log("your score is ",score);
   }else{
-    console.log("your wrong lets guess");
+    console.log("your may be wrong., lets guess again..!");
     
   }
-console.log("cool., you getting know me")
+console.log("cool., you getting know me better")
 }
 var questionAndAnswers=[{
   question: "welcome "+uname+" DO YOU KNOW Raja? ",
